@@ -5,7 +5,7 @@ def mysql_installed?
 end
 
 class Php <Formula
-  url 'http://www.php.net/get/php-5.3.8.tar.gz/from/this/mirror'
+  url 'http://www.php.net/get/php-5.3.9.tar.gz/from/this/mirror'
   homepage 'http://php.net/'
   md5 'dd3288ed5c08cd61ac5bf619cb357521'
   version '5.3.9'
