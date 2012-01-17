@@ -7,7 +7,7 @@ end
 class Php <Formula
   url 'http://www.php.net/get/php-5.3.9.tar.gz/from/this/mirror'
   homepage 'http://php.net/'
-  md5 'dd3288ed5c08cd61ac5bf619cb357521'
+  md5 'c79e374c61423beb64a69da1eb5526b7'
   version '5.3.9'
 
   # So PHP extensions don't report missing symbols
