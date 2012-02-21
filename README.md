@@ -1,3 +1,4 @@
 Notice
-========
-You can find a superior version of the [PHP formula](https://github.com/adamv/homebrew-alt/blob/master/duplicates/php.rb) in the [Homebrew alt](https://github.com/adamv/homebrew-alt) repository. The Homebrew alt version is updated more frequently and has more features.
+======
+
+Please go to [homebrew-php](https://github.com/josegonzalez/homebrew-php) for the latest and most up to date homebrew php formula. The repo also has additional PHP related formulae.
